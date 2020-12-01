@@ -6,6 +6,8 @@ Here are some of the technologies I'm working with:
 
  - JavaScript / Typescript
  - React
+ - C# / .NET
+ - PowerShell
  - HTML, SCSS, CSS
  - Gatsby
 
